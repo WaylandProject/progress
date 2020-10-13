@@ -1,0 +1,8 @@
+{
+	"user": "WaylandProject",
+	"repo": "progress",
+	"entry": "test/test.pwn",
+	"output": "test/test.amx",
+	"dependencies": ["sampctl/pawn-stdlib"],
+	"include_path": "include"
+}
